@@ -1,0 +1,9 @@
+.idea/
+.env
+.env copy
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+systemTest/utils/
